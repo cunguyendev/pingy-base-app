@@ -1,0 +1,20 @@
+{
+  "name": "pingy-base-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "pingy dev",
+    "export": "pingy export",
+    "build": "pingy export"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4",
+    "@pingy/cli": "^0.13.0"
+  }
+}
