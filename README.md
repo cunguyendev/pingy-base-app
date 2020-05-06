@@ -41,3 +41,5 @@ npm/yarn run build
 
 _You can update the source structures to follow your patterns._
 _Note: Live-reload is supported_
+
+_Coming soon: A non-interactive version of the init command. In the mean-time, it's worth noting that you can actually initialise a Pingy project by simply running the command touch .pingy.json._
