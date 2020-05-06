@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "pingy dev",
     "export": "pingy export",
-    "build": "pingy export"
+    "build": "pingy export",
+    "reset": "rm -rf build && rm -rf .cache && rm -rf dist && rm -rf node_modules"
   },
   "keywords": [],
   "author": "",
