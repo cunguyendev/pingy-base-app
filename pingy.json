@@ -3,6 +3,7 @@
   "exportDir": "build",
   "minify": true,
   "compile": true,
+  "autoprefix": true,
   "exclusions": [
     {
       "path": "node_modules",
