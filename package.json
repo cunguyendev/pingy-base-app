@@ -13,7 +13,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "autoprefixer": "^9.7.6"
+  },
   "devDependencies": {
     "node-sass": "^4",
     "@pingy/cli": "^0.13.0"
