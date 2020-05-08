@@ -4,7 +4,7 @@ Create an app about HTML/CSS/JS with Pingy (The Simple Frontend Build Tool)
 
 Author: Cu Nguyen &lt;[cunguyen.dev@gmail.com](cnguyen.dev@gmail.com)&gt;
 
-Deploy to Netlify: [https://pingy-base-app.netlify.app/](https://pingy-base-app.netlify.app/)
+Deploy to Netlify (Sometime error - I am fixing on it): [https://pingy-base-app.netlify.app/](https://pingy-base-app.netlify.app/)
 
 ## Requirements
 
